@@ -21,7 +21,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
 
-markdown: kramdown
+#markdown: kramdown
 
 # ----------------------------
 # Navigation
