@@ -1,5 +1,33 @@
-title: "Josephine Camara"
-logo: imgs/photos.jpg
-description: "Portefolio Data Analyste"
-theme: jekyll-theme_minimal
-lang: fr
+title: Mon Portfolio
+description: Portfolio professionnel de Data Analyst spécialisé en analyse de données, Business Intelligence et développement.
+
+baseurl: ""
+url: "https://ton-utilisateur.github.io"
+
+author:
+  name: Ton Nom
+  email: tonemail@example.com
+  github: ton-utilisateur
+  linkedin: ton-profil-linkedin
+  role: Data Analyst | Business Intelligence Developer
+
+# ----------------------------
+# THÈME PROFESSIONNEL
+# ----------------------------
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-include-cache
+
+markdown: kramdown
+
+# ----------------------------
+# Navigation
+# ----------------------------
+header_pages:
+  - index.md
+  - projects.md
+  - about.md
+  - contact.md
