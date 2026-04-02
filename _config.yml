@@ -25,9 +25,4 @@ markdown: kramdown
 
 # ----------------------------
 # Navigation
-# ----------------------------
-header_pages:
-  - index.md
-  - projects.md
-  - about.md
-  - contact.md
+
