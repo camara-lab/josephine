@@ -2,14 +2,14 @@ title: Mon Portfolio
 description: Portfolio professionnel de Data Analyst spécialisé en analyse de données, Business Intelligence et développement.
 
 baseurl: ""
-url: "https://ton-utilisateur.github.io"
+url: "https://camara-lab.github.io"
 
 author:
-  name: Ton Nom
-  email: tonemail@example.com
-  github: ton-utilisateur
+  name: Josephine Camara
+  email: josephine20camara@gmail.com
+  github: camara-lab
   linkedin: ton-profil-linkedin
-  role: Data Analyst | Business Intelligence Developer
+  role: Data Analyst | Systeme D'information
 
 # ----------------------------
 # THÈME PROFESSIONNEL
